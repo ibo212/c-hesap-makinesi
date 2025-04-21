@@ -1,7 +1,8 @@
+
+
 # c-hesap-makinesi
 C dilinde yazılmış basit bir hesap makinesi projesi
 #include <stdio.h>
-
 int main() {
     char islem;
     double sayi1, sayi2, sonuc;
